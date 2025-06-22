@@ -36,7 +36,7 @@ from-scratch PreActResNet34 repo called [→ `resnetx_cifar10`]
 | PreActResNet34 (from scratch) | **89.0%**                | 0.3603               | Epoch 41/50            |
 | ResNet34 (Feature Extractor)  | 42.5%                    | 1.7329               | Epoch 21/25            |
 | ResNet34 (Fine Tuning)        | 85.9%                    | 0.4311               | Epoch 16/25            |
-
+```
 ---
 
 ## Comparison & Insights
@@ -84,14 +84,12 @@ resnet-transfer-learning/
 ![Sample Images (FT)](images_ft.png)
 
 ---
----
 
 ## Getting Started
 
-```bash
-
 ### Requirements
 
+```bash
  Install dependencies with:
 
     pip install -r requirements.txt
@@ -107,14 +105,12 @@ The training pipeline includes:
     . Data augmentation
     . Performance plots and evaluation metrics
     . Confusion matrix and misclassified samples
-
 ```
 ---
 
 ## Related Work
 
 ```bash
-
 resnetx_cifar10 — Custom PreActResNet34 trained from scratch on CIFAR-10.
 ```
 ---
