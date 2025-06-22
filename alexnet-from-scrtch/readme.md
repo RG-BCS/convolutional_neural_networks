@@ -102,12 +102,6 @@ Training this AlexNet implementation was particularly difficult, due to:
 ```
 ---
 
-## Model Structure
-
-![Model](model_structure.png)
-
----
-
 ## Getting Started
 
 ### Requirements
@@ -157,6 +151,11 @@ The training pipeline includes:
 
 ```
 ---
+
+## Model Structure
+
+![Model](model_structure.png)
+
 
 Dataset: Intel Image Classification by Puneet Jindal
 Architecture: Based on the original AlexNet (Krizhevsky et al., 2012)
