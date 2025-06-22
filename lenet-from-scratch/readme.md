@@ -54,10 +54,9 @@ and evaluated on the **MNIST handwritten digits** dataset.
 
 ## Getting Started
 
-```bash
-
 ### Requirements
 
+```bash
 - Python 3.7+
 - TensorFlow 2.x
 - NumPy, Pandas, Matplotlib
