@@ -1,4 +1,4 @@
-# convolutional_neural_networks
+# Convolutional_Neural_Networks
 ```bash
 This repository is a growing collection of deep learning projects focused on **Convolutional Neural Networks (CNNs)** implemented from scratch and using popular frameworks like **TensorFlow** and **PyTorch**.
 
