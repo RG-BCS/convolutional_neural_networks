@@ -110,10 +110,8 @@ Training this AlexNet implementation was particularly difficult, due to:
 
 ## Getting Started
 
-```bash
-
 ### Requirements
-
+```bash
  Install dependencies with:
 
     pip install -r requirements.txt
@@ -159,10 +157,6 @@ The training pipeline includes:
 
 ```
 ---
-
-##Credits
-
-```bash
 
 Dataset: Intel Image Classification by Puneet Jindal
 Architecture: Based on the original AlexNet (Krizhevsky et al., 2012)
