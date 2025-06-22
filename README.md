@@ -14,6 +14,7 @@ The goal is to explore, implement, and compare various CNN architectures on benc
 - **AlexNet** built from scratch and trained on multi-class image datasets
 - **PreActResNet34** trained from scratch on CIFAR-10
 - **ResNet34 Transfer Learning** with both feature extraction and fine-tuning
+- **GoogleNet/Inception implrmrnted from scratch and trained on Intel Image Classification Dataset
 
 Each project is **self-contained** with its own code, visualizations, training logs, and README explaining its purpose and results.
 ```
