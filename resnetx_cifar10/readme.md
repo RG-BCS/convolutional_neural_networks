@@ -79,10 +79,8 @@ Note: The model reaches nearly 89% validation accuracy, demonstrating solid gene
 
 ## Getting Started
 
-```bash
-
 ### Requirements
-
+```bash
  Install dependencies with:
 
     pip install -r requirements.txt
@@ -116,5 +114,3 @@ The training pipeline includes:
 
 ```
 ---
-
-
