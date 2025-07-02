@@ -1,21 +1,17 @@
 # GoogLeNet-Inspired Inception Model for Intel Image Classification
 
-```bash
 This project implements a custom version of the **GoogLeNet (Inception v1)** architecture with
 **auxiliary classifiers** for improved regularization and training stability. It is trained on
 the [Intel Image Classification dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification), a natural scene recognition benchmark across 6 real-world categories.
-```
 ---
 
 ## Dataset Overview
 
-```bash
 - **Source:** [Kaggle: Intel Image Classification](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)  
 - **Classes:**  
   `buildings`, `forest`, `glacier`, `mountain`, `sea`, `street`  
 - **Input Size:** Resized to `(224, 224)`  
 - **Format:** Pre-split into `train/` and `test/` folders
-```
 ---
 
 ## Features
