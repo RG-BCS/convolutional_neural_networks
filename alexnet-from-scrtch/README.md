@@ -1,7 +1,7 @@
 # AlexNet from Scratch on Intel Image Classification Dataset
 
 ## Overview
-```bash
+
 This project implements the **AlexNet** architecture from scratch using TensorFlow and Keras.
 The model is trained on the **Intel Image Classification Dataset**, a real-world dataset with
 six natural scene categories:
@@ -17,7 +17,7 @@ Despite using best practices such as **data augmentation**, **early stopping**, 
 scheduling**, training AlexNet proved to be notably challenging. The model showed tendencies to
 overfit early, even with aggressive regularization and reduced fully connected layer sizes.
 This highlights the complexity and sensitivity of AlexNet, especially when adapting it to new datasets.
-```
+
 ---
 
 ## Dataset
