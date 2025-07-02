@@ -1,14 +1,13 @@
 # Convolutional_Neural_Networks
-```bash
+
 This repository is a growing collection of deep learning projects focused on **Convolutional Neural Networks (CNNs)** implemented from scratch and using popular frameworks like **TensorFlow** and **PyTorch**.
 
 The goal is to explore, implement, and compare various CNN architectures on benchmark datasets. Projects range from simple MLP-vs-CNN baselines to advanced transfer learning techniques using pretrained models.
-```
+
 ---
 
 ## What You'll Find Here
 
-```bash
 - **MNIST & Fashion-MNIST** classification with custom MLPs and CNNs
 - **LeNet** implemented from scratch and trained on digit classification
 - **AlexNet** built from scratch and trained on multi-class image datasets
@@ -17,13 +16,10 @@ The goal is to explore, implement, and compare various CNN architectures on benc
 - **GoogleNet/Inception implemented from scratch and trained on Intel Image Classification Dataset
 
 Each project is **self-contained** with its own code, visualizations, training logs, and README explaining its purpose and results.
-```
-
 ---
 
 ## Technologies Used
 
-```bash
 - **Python 3.x**
 - **Deep Learning Frameworks**:
   - **TensorFlow** – used in foundational and from-scratch models
@@ -32,7 +28,6 @@ Each project is **self-contained** with its own code, visualizations, training l
   - `torchvision`, `tf.keras.datasets`
   - `matplotlib`, `seaborn`, `pandas`
   - `scikit-learn` for evaluation metrics
-```
 ---
 
 ## Goals
