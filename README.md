@@ -32,30 +32,24 @@ Each project is **self-contained** with its own code, visualizations, training l
 
 ## Goals
 
-```bash
 - Implement well-known CNN architectures **from scratch**
 - Understand the **performance trade-offs** between scratch models and pretrained models
 - Apply **transfer learning** techniques for efficient training
 - Build a foundation for extending to **object detection, segmentation**, and other vision tasks
-```
 ---
 
 
 ## Each Project Includes
 
-```bash
 - Custom model implementations or pretrained usage
 - Training & validation curves
 - Confusion matrices
 - Prediction visualizations (correct & incorrect)
 - Clean, modular code for easy extension
-```
 ---
 
 ## Notes
-```bash
 
 - More CNN architectures (e.g., VGG, MobileNet, EfficientNet) will be added over time.
 - Future work may also include segmentation and object detection pipelines.
-```
 ---
