@@ -22,13 +22,10 @@ This highlights the complexity and sensitivity of AlexNet, especially when adapt
 
 ## Dataset
 
-```bash
-
 The dataset used for training and evaluation is available on **Kaggle**:  
 [Intel Image Classification Dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
 
 It consists of high-resolution RGB images split into training and testing sets across the six scene classes.
-```
 ---
 
 ## Project Structure
