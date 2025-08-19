@@ -1,16 +1,12 @@
 # ResNet Transfer Learning on CIFAR-10
 
-```bash
-
 Compare ResNet34 Transfer Learning (Feature Extraction & Fine-Tuning) a gainst a custom
 from-scratch PreActResNet34 repo called [→ `resnetx_cifar10`]
 
- ```
 ---
 
 ## Highlights
 
-```bash
 - Implements two transfer learning approaches using **ResNet34 pretrained on ImageNet**:
   - **Feature Extraction:** Freeze all layers except the classification head.
   - **Fine-Tuning:** Train the entire model end-to-end.
@@ -25,7 +21,7 @@ from-scratch PreActResNet34 repo called [→ `resnetx_cifar10`]
   - `dataloader_generator.py`: dataloader creation
   - `demo_script.py`: CLI runner
   - `demo.ipynb`: interactive notebook
-```
+
 ---
 
 ## Training Results
@@ -41,14 +37,13 @@ from-scratch PreActResNet34 repo called [→ `resnetx_cifar10`]
 
 ## Comparison & Insights
 
-```bash
+
 - **Fine-tuned ResNet34** reaches **~85.9% accuracy** in just 25 epochs, showcasing the efficiency of transfer learning.
 - **Scratch-trained PreActResNet34** performs slightly better at **~89%**, but requires **50 epochs**, careful tuning, and more compute.
 - **Feature extraction-only** ResNet34 underperforms (~42.5%), indicating that fine-tuning the entire network is crucial for CIFAR-10.
 - **Conclusion**: Transfer learning dramatically reduces training time while still achieving competitive performance, especially valuable for resource-constrained setups.
-```
----
 
+---
 
 ## Project Structure
 
