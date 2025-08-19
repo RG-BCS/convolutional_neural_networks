@@ -54,8 +54,6 @@ This repository contains:
 
 ## Getting Started
 
-```bash
-
 ### Requirements
 
 - Python 3.7+
@@ -65,9 +63,9 @@ This repository contains:
  Install dependencies with:
 
     pip install -r requirements.txt
-```
+
  ### Running the Demo:
- ```bash
+ 
      python demo_script.py
 
 This will:
@@ -79,12 +77,9 @@ This will:
     .Display example predictions for the CNN model
     .Save the trained models to disk
 
-```
 ---
 
 ## Highlights
-
-```bash
 
     . Comparative study of MLP vs CNN on Fashion-MNIST dataset
     . Clean, modular codebase with reusable components
@@ -92,5 +87,5 @@ This will:
     . Achieves ~87.7% accuracy with MLP and ~91.4% accuracy with CNN
     . Includes sample prediction plots and training history graphs
 
-```
+
 ---
