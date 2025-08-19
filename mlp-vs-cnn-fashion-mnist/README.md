@@ -1,9 +1,8 @@
 # mlp-vs-cnn-fashion-mnist
-```bash
 
 This project compares the performance of a **vanilla Multi-Layer Perceptron (MLP)** and a
 **Convolutional Neural Network (CNN)** on the Fashion-MNIST dataset.
-```
+
 ---
 
 ## Project Overview
