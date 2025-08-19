@@ -3,6 +3,7 @@
 This project implements a custom version of the **GoogLeNet (Inception v1)** architecture with
 **auxiliary classifiers** for improved regularization and training stability. It is trained on
 the [Intel Image Classification dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification), a natural scene recognition benchmark across 6 real-world categories.
+
 ---
 
 ## Dataset Overview
