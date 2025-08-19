@@ -1,11 +1,8 @@
 # LeNet-from-Scratch
 
-```bash
-
 This repository contains a clean implementation of the classic **LeNet-5** convolutional
 neural network architecture built from scratch using TensorFlow/Keras. The model is trained
 and evaluated on the **MNIST handwritten digits** dataset.
-```
 
 ---
 
