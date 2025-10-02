@@ -17,7 +17,6 @@ the [Intel Image Classification dataset](https://www.kaggle.com/datasets/puneet6
 
 ## Features
 
-```bash
 - Inception v1-style architecture (custom-built using Keras)
 - Two **auxiliary outputs** for enhanced training signal
 - Augmented training pipeline via `ImageDataGenerator`
@@ -27,7 +26,7 @@ the [Intel Image Classification dataset](https://www.kaggle.com/datasets/puneet6
   - `utils.py`
 - Built-in tools: confusion matrix, training curves, misclassification plots
 - Includes `demo.ipynb` notebook for end-to-end training + evaluation
-```
+
 ---
 
 ##  Project Structure
@@ -70,7 +69,6 @@ The training pipeline includes:
 
 ## Results
 
-```bash
 | Metric           | Before Training     | After 30 Epochs     |
 |------------------|---------------------|---------------------|
 | Total Loss       | 2.8669              | **0.5341**          |
@@ -78,11 +76,9 @@ The training pipeline includes:
 | Aux1 Accuracy    | 14.57%              | **87.93%**          |
 | Aux2 Accuracy    | 16.60%              | **88.40%**          |
 
-```
-
 **Conclusion:** The model achieves **~87–88% accuracy** after training, with strong agreement across
   all outputs — a significant improvement from untrained performance.
-```
+  
 ---
 
 ## Training Progress Report
@@ -95,8 +91,6 @@ The training pipeline includes:
 
 ## Conclusion
 
-```bash
-
 This project demonstrates:
 
     . How to build a GoogLeNet-inspired deep CNN
@@ -106,6 +100,5 @@ This project demonstrates:
 
 Perfect as a foundation for exploring advanced image classification models.
 
-```
 ---
 
