@@ -78,6 +78,8 @@ The training pipeline includes:
 | Aux1 Accuracy    | 14.57%              | **87.93%**          |
 | Aux2 Accuracy    | 16.60%              | **88.40%**          |
 
+```
+
 **Conclusion:** The model achieves **~87–88% accuracy** after training, with strong agreement across
   all outputs — a significant improvement from untrained performance.
 ```
